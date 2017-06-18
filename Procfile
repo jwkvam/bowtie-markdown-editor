@@ -1,1 +1,1 @@
-web: python chat.py serve -p $PORT
+web: python mark.py serve -p $PORT
